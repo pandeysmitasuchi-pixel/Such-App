@@ -1,1 +1,1 @@
-# Such-App
+# Suchi-App
